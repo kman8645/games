@@ -1,6 +1,6 @@
 {
-  "name": "attogram/games",
-  "description": "Your own games website, filled with open source goodness!",
+  "name": "K's ubg",
+  "description": "all of the good ubg sites are blocked so I made my own",
   "type": "project",
   "license": "MIT",
   "require": {
